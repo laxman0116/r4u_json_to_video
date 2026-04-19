@@ -1,0 +1,26 @@
+{
+  "project_name": "learning_demo_2024",
+  "items": [
+    {
+      "text": "Welcome to Python Learning"
+    },
+    {
+      "text": "Understanding Microservices"
+    },
+    {
+      "text": "Building REST APIs"
+    },
+    {
+      "text": "JSON to Video Conversion"
+    },
+    {
+      "text": "Video Generation Complete!"
+    }
+  ],
+  "fps": 24,
+  "resolution": [1280, 720],
+  "duration_per_image": 3,
+  "add_text": true,
+  "background_color": [255, 255, 255],
+  "text_color": [0, 0, 0]
+}
